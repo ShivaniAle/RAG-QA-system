@@ -94,6 +94,4 @@ Thomson_challenge/
 
 This project is for educational and research purposes. Please ensure compliance with data usage agreements and API terms of service.
 
-## Contact
-
-For questions or collaboration opportunities, please reach out through the project repository. 
+ 
