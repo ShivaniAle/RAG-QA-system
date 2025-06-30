@@ -1,6 +1,6 @@
 """
 Legal RAG QA System (CLI Only)
-Author: [Your Name]
+Author: Shivani Ale
 Description: Command-line tool for answering legal questions using retrieval-augmented generation (RAG) over a legal passage dataset.
 """
 
